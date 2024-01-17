@@ -1,0 +1,17 @@
+#LoginTable {
+    float: left;                /* フロート：左 */
+}
+
+.box {
+    margin-left: 10px;          /* 左マージン */
+    margin-right: 30px;         /* 右マージン */
+    margin-bottom: 30px;        /* 下マージン */
+    padding: 5px;               /* パディング */
+    border: 1px solid black;  /* 枠線: 線幅1px  線のスタイルsolid  線の色は黒 */
+}
+
+table th {
+    background-color: Green;    /* 背景色 */
+    color: White;               /* 文字の色 */
+    text-align: center;         /* テキストの中央揃え */
+}

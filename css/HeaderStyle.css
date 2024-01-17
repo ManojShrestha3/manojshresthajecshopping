@@ -1,0 +1,11 @@
+#logo {
+    float: left;        /* float：左 */
+}
+
+#link {
+    float: right;       /* float：右 */
+}
+
+#clear {
+    clear: both;        /* floatを解除 */
+}
